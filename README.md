@@ -6,7 +6,7 @@ This repository contains an implementation of a Bidirectional Long Short-Term Me
 
 The model architecture is based on a Bidirectional LSTM structure, as illustrated below:
 
-![Model Architecture](images/image.png)
+![Model Architecture](images/image.PNG)
 
 - **Input Layer**: The input sequence, represented as multiple time steps (e.g., `x1`, `x2`, ..., `xn`), is fed into the model.
 - **Bidirectional LSTM Layers**: Each time step is processed by an LSTM in both directions:
