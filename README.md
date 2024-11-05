@@ -19,6 +19,7 @@ The model architecture is based on a Bidirectional LSTM structure, as illustrate
 - `ECG_5_TimeSteps.ipynb`: Jupyter Notebook for time series analysis on ECG data with 5 time steps using the BiLSTM model for regression.
 - `ECG_8_TimeSteps.ipynb`: Jupyter Notebook for time series analysis on ECG data with 8 time steps using the BiLSTM model.
 - `Temperature_5_TimeSteps.ipynb`: Jupyter Notebook for temperature prediction with 5 time steps using the BiLSTM model.
+- `Temperature_8_TimeSteps.ipynb`: Jupyter Notebook for temperature prediction with 8 time steps using the BiLSTM model.
 
 ## Requirements
 
